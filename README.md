@@ -2,8 +2,8 @@
 
 <div style="display: flex" align="center">
    <a href="https://github.com/leonardovoliveira">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devemdobro&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devemdobro&layout=compact&langs_count=6&theme=dark"/>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leonardovoliveira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardovoliveira&layout=compact&langs_count=6&theme=dark"/>
 </div>
    
    <div style="display: flex" align="center"><br>
